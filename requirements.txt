@@ -1,0 +1,10 @@
+streamlit
+<<<<<<< HEAD
+langchain==0.0.208
+faiss-cpu
+sentence-transformers
+=======
+sentence-transformers
+scikit-learn
+>>>>>>> 1c5310150bc979e7e57c3c7ff50e19b6dd168d61
+pypdf
